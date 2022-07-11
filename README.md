@@ -1,2 +1,3 @@
-# python_beginner_projects
-Python projects for beginner level
+# python_projects_for_beginners
+
+Python projects for beginner level, wwhich will help to understand some basics concepts.
